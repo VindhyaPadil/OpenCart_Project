@@ -7,6 +7,6 @@ OpenCart is free open source e-commerce platform for online merchants. OpenCart 
 This project contains\
 *A detailed FRS document on the OpenCart website\
 *Test Plan for the project\
-*Test Scenarios.
+*Test Scenarios\
 *Test Cases of few of the Test Scenarios have been documented\
 
